@@ -701,7 +701,7 @@ OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 
 -----
 
-The following software may be included in this product: @mapbox/tile-cover, @mapbox/tilebelt. A copy of the source code may be downloaded from https://github.com/mapbox/tile-cover.git (@mapbox/tile-cover), https://github.com/mapbox/tilebelt.git (@mapbox/tilebelt). This software contains the following license and notice below:
+The following software may be included in this product: @mapbox/tile-cover, tilebelt. A copy of the source code may be downloaded from https://github.com/mapbox/tile-cover.git (@mapbox/tile-cover), https://github.com/mapbox/tilebelt.git (tilebelt). This software contains the following license and notice below:
 
 The MIT License (MIT)
 
